@@ -13,10 +13,13 @@ export default function Home() {
           laytoncall@gmail.com | (480) 974-9722 |{' '}
           <a href="https://linkedin.com/in/layton-call-684a88203" className="text-blue-600 underline">LinkedIn</a>
         </p>
+        
         <nav className="mt-4 space-x-4">
           <Link href="/about" className="text-blue-700 underline">About Me</Link>
           <Link href="/testimonials" className="text-blue-700 underline">Testimonials</Link>
+          <Link href="/book" className="text-blue-700 underline">Book a Call</Link>
         </nav>
+
       </header>
 
       <section className="max-w-4xl mx-auto mb-16 bg-white p-6 rounded-xl shadow">
