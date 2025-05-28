@@ -1,6 +1,1 @@
-module.exports = {
-  reactStrictMode: true,
-  images: {
-    domains: [],
-  },
-};
+module.exports = { reactStrictMode: true };
